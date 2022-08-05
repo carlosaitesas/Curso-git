@@ -1,4 +1,4 @@
-body
+#body
 {
     background: #1e1f24;
     color: #333;
@@ -42,11 +42,20 @@ body
 #container h1
 {
     font-size: 20px;
+
 }
 
-#post
+}#post
+>>>>>>> footer
 {
     background: #ddd;
     padding: 1em;
 }
 
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
