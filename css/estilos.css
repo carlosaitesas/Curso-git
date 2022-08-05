@@ -18,6 +18,7 @@
     margin: 0;
     padding: 0.5em;
 }
+
 #cabecera #logo
 {
     width: 20px;
@@ -30,6 +31,7 @@
     font-weight: normal;
     font-size: 0.8em;
 }
+
 #container
 {
     width: 70%;
@@ -46,7 +48,6 @@
 }
 
 }#post
->>>>>>> footer
 {
     background: #ddd;
     padding: 1em;
